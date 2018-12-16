@@ -2,3 +2,4 @@ welcome
  welcome to devops
  training class
 devops session
+today class
