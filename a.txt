@@ -1,4 +1,4 @@
 welcome
  welcome to devops
- 
+ training class
 devops session
